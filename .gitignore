@@ -1,0 +1,27 @@
+# База данных
+*.db
+*.db-shm
+*.db-wal
+
+# Переменные окружения
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Конфигурация (опционально, если хотите хранить секреты отдельно)
+# config.py

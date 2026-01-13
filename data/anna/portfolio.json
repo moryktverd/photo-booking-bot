@@ -1,0 +1,11 @@
+{
+  "photographer_id": "anna",
+  "name": "Анна Портретная",
+  "photos": [
+    {
+      "path": "data/anna/photos/photo_1.jpg",
+      "caption": "Тестовое фото",
+      "added_at": "379368.5618536"
+    }
+  ]
+}
